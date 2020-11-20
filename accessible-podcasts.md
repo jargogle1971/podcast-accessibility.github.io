@@ -88,4 +88,9 @@ The Web Ahead
 : Jen Simmons speaks with world experts on changing technologies and the future of the web.
 : Many, but not all, episodes transcribed.
 
+You First: The Disability Rights Florida Podcast
+: [https://disabilityrightsflorida.org/podcast](https://disabilityrightsflorida.org/podcast)
+: The purpose of You First is to discuss the rights of individuals with disabilities, putting your rights first. Host Keith Casebonne tackles important issues with knowledgeable guests, accounting first-hand experiences and discussing available resources for persons with disabilities.
+: Site accessible, all episodes have transcripts, media player accessible
+
 [Add more podcasts to this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
